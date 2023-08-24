@@ -1,0 +1,6 @@
+Lesson 25-05
+
+Ordenamiento por burbuja
+
+Esto solo es teorico, no es muy util en el trabajo practico.
+Es para ampliar mi perspectiva, como se utlizan los while y los if.
